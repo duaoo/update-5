@@ -19,7 +19,7 @@ package array;
  * @author duxiaojie
  * @date 2020-04-28 3:35 下午
  */
-public interface L283_MoveZeroes {
+public class L283_MoveZeroes {
 
     /**
      * 双指针同向移动，循环一遍
