@@ -23,7 +23,7 @@ import java.util.Map;
  * @author duxiaojie
  * @date 2020-04-20 12:15 上午
  */
-public class L1TwoSum {
+public class L1_TwoSum {
 
     public static void main(String[] args) {
 

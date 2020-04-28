@@ -5,11 +5,31 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//给定一个包含 n 个整数的数组 nums 和一个目标值 target，判断 nums 中是否存在四个元素 a，b，c 和 d ，使得 a + b + c +
+// d 的值与 target 相等？找出所有满足条件且不重复的四元组。
+//
+// 注意：
+//
+// 答案中不可以包含重复的四元组。
+//
+// 示例：
+//
+// 给定数组 nums = [1, 0, -1, 0, -2, 2]，和 target = 0。
+//
+//满足要求的四元组集合为：
+//[
+//  [-1,  0, 0, 1],
+//  [-2, -1, 1, 2],
+//  [-2,  0, 0, 2]
+//]
+//
+// Related Topics 数组 哈希表 双指针
+
 /**
  * @author duxiaojie
  * @date 2020-04-27 8:16 下午
  */
-public class L18FourSum {
+public class L18_FourSum {
 
     public static void main(String[] args) {
 
@@ -23,6 +43,7 @@ public class L18FourSum {
     public static List<List<Integer>> fourSum(int[] nums, int target) {
 
         List<List<Integer>> result = new ArrayList<>();
+
         // 排序，asc
         Arrays.sort(nums);
 
@@ -54,13 +75,13 @@ public class L18FourSum {
                     continue;
                 }
 
-                // 内层循环，如果当前最小值比三数目标值还大，说明当前值过大，后续值更大，终止循环跳出
+                // 内层循环，如果当前最小值比四数目标值还大，说明当前值过大，后续值更大，终止循环跳出
                 int inMin = nums[i] + nums[j] + nums[j + 1] + nums[j + 2];
                 if (inMin > target) {
                     break;
                 }
 
-                // 内层循环，如果当前最大值比三数目标值还小，说明当前值过小，后续两数组合均无意义，跳过即可
+                // 内层循环，如果当前最大值比四数目标值还小，说明当前值过小，后续两数组合均无意义，跳过即可
                 int inMax = nums[i] + nums[j] + nums[length - 1] + nums[length - 2];
                 if (inMax < target) {
                     continue;
@@ -92,10 +113,10 @@ public class L18FourSum {
                         }
 
                     } else if (sum < target) {
-                        // 当前三数之和小于目标和，说明当前值左指针较小，需向右移动
+                        // 当前四数之和小于目标和，说明当前值左指针较小，需向右移动
                         left++;
                     } else {
-                        //  当前三数之和大于目标和，说明当前值右指针较大，需向左移动
+                        //  当前四数之和大于目标和，说明当前值右指针较大，需向左移动
                         right--;
                     }
                 }
