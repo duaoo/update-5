@@ -25,10 +25,6 @@ import java.util.List;
 //
 // Related Topics 数组 哈希表 双指针
 
-/**
- * @author duxiaojie
- * @date 2020-04-27 8:16 下午
- */
 public class L18_FourSum {
 
     public static void main(String[] args) {

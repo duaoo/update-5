@@ -15,10 +15,6 @@ package array;
 //
 // Related Topics 数组 双指针
 
-/**
- * @author duxiaojie
- * @date 2020-04-28 3:35 下午
- */
 public class L283_MoveZeroes {
 
     /**

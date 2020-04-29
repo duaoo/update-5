@@ -21,10 +21,6 @@ import java.util.*;
 //
 // Related Topics 数组 双指针
 
-/**
- * @author duxiaojie
- * @date 2020-04-20 1:23 下午
- */
 public class L15_ThreeSum {
 
     public static void main(String[] args) {

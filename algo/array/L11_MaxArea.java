@@ -19,10 +19,6 @@ package array;
 //输出：49
 // Related Topics 数组 双指针
 
-/**
- * @author duxiaojie
- * @date 2020-04-28 10:38 上午
- */
 public class L11_MaxArea {
 
     public static void main(String[] args) {
