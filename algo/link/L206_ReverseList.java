@@ -22,13 +22,27 @@ package link;
  * ListNode(int x) { val = x; }
  * }
  */
+<<<<<<< HEAD
+=======
+
+import bean.ListNode;
+
+/**
+ * 反转链表
+ * https://leetcode-cn.com/problems/reverse-linked-list/
+ */
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L206_ReverseList {
 
     /**
      * 双指针迭代
      * 时间复杂度O(n)
      */
+<<<<<<< HEAD
     public ListNode solution_1(ListNode head) {
+=======
+    public static ListNode solution_1(ListNode head) {
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         // 前置节点
         ListNode previousNode = null;
@@ -56,6 +70,7 @@ public class L206_ReverseList {
 
         return previousNode;
     }
+<<<<<<< HEAD
 }
 
 class ListNode {
@@ -66,3 +81,8 @@ class ListNode {
         val = x;
     }
 }
+=======
+
+}
+
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305

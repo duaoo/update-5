@@ -19,12 +19,21 @@ package array;
 //输出：49
 // Related Topics 数组 双指针
 
+<<<<<<< HEAD
 public class L11_MaxArea {
 
     public static void main(String[] args) {
 
     }
 
+=======
+/**
+ * 盛最多水的容器
+ * https://leetcode-cn.com/problems/container-with-most-water/
+ */
+public class L11_MaxArea {
+
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
     /**
      * 双指针向内推进，不走重复路
      * 时间复杂度O(n)

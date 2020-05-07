@@ -21,11 +21,19 @@ import java.util.*;
 //
 // Related Topics 数组 双指针
 
+<<<<<<< HEAD
+=======
+/**
+ * 三数之和
+ * https://leetcode-cn.com/problems/3sum/
+ */
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L15_ThreeSum {
 
     public static void main(String[] args) {
 
         int[] nums = new int[]{-1, 0, 1, 2, -1, -4};
+<<<<<<< HEAD
 //
         System.out.println(solution2(nums).toString());
 
@@ -33,6 +41,12 @@ public class L15_ThreeSum {
     }
 
     private static List<List<Integer>> solution2(int[] nums) {
+=======
+        System.out.println(solution_2(nums).toString());
+    }
+
+    private static List<List<Integer>> solution_2(int[] nums) {
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         List<List<Integer>> result = new ArrayList<>();
 
@@ -88,7 +102,11 @@ public class L15_ThreeSum {
 
     }
 
+<<<<<<< HEAD
     public static List<List<Integer>> solution1(int[] nums) {
+=======
+    public static List<List<Integer>> solution_1(int[] nums) {
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         List<List<Integer>> allResult = new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {

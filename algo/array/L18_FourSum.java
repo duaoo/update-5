@@ -25,6 +25,13 @@ import java.util.List;
 //
 // Related Topics 数组 哈希表 双指针
 
+<<<<<<< HEAD
+=======
+/**
+ * 四数之和
+ * https://leetcode-cn.com/problems/4sum/
+ */
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L18_FourSum {
 
     public static void main(String[] args) {
@@ -32,11 +39,19 @@ public class L18_FourSum {
         int[] nums = {-1, 0, -5, -2, -2, -4, 0, 1, -2};
         int target = -9;
         System.out.println("期望结果:[[-5,-4,-1,1],[-5,-4,0,0],[-5,-2,-2,0],[-4,-2,-2,-1]]");
+<<<<<<< HEAD
         System.out.println(fourSum(nums, target).toString());
     }
 
 
     public static List<List<Integer>> fourSum(int[] nums, int target) {
+=======
+        System.out.println(solution_1(nums, target).toString());
+    }
+
+
+    public static List<List<Integer>> solution_1(int[] nums, int target) {
+>>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         List<List<Integer>> result = new ArrayList<>();
 
