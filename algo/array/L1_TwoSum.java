@@ -19,13 +19,10 @@ import java.util.Map;
 //
 // Related Topics 数组 哈希表
 
-<<<<<<< HEAD
-=======
 /**
  * 两数之和
  * https://leetcode-cn.com/problems/two-sum/
  */
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L1_TwoSum {
 
     public static void main(String[] args) {
@@ -33,21 +30,12 @@ public class L1_TwoSum {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
 
-<<<<<<< HEAD
-        System.out.println(Arrays.toString(solution1(nums, target)));
-        System.out.println(Arrays.toString(solution2(nums, target)));
-
-    }
-
-    private static int[] solution2(int[] nums, int target) {
-=======
         System.out.println(Arrays.toString(solution_1(nums, target)));
         System.out.println(Arrays.toString(solution_2(nums, target)));
 
     }
 
     private static int[] solution_2(int[] nums, int target) {
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         Map<Integer, Integer> usedNumMap = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
@@ -63,11 +51,7 @@ public class L1_TwoSum {
         return null;
     }
 
-<<<<<<< HEAD
-    private static int[] solution1(int[] nums, int target) {
-=======
     private static int[] solution_1(int[] nums, int target) {
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         for (int i = 0; i < nums.length; i++) {
 
@@ -81,6 +65,5 @@ public class L1_TwoSum {
         }
 
         throw null;
-
     }
 }

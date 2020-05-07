@@ -34,13 +34,10 @@ package array;
 //5.  2 阶 + 2 阶
 // Related Topics 动态规划
 
-<<<<<<< HEAD
-=======
 /**
  * 爬楼梯
  * https://leetcode-cn.com/problems/climbing-stairs/
  */
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L70_ClimbStairs {
 
     /**

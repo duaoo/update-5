@@ -15,13 +15,10 @@ package array;
 //
 // Related Topics 数组 双指针
 
-<<<<<<< HEAD
-=======
 /**
  * 移动零
  * https://leetcode-cn.com/problems/move-zeroes/
  */
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L283_MoveZeroes {
 
     /**
