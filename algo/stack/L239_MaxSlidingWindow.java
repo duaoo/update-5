@@ -9,7 +9,7 @@ import java.util.LinkedList;
  *
  * @date 2020-05-09 11:38 下午
  */
-public interface L239_MaxSlidingWindow {
+public class L239_MaxSlidingWindow {
 
     class solution_1 {
 
