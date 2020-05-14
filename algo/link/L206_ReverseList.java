@@ -1,48 +1,18 @@
 package link;
 
-//反转一个单链表。
-//
-// 示例:
-//
-// 输入: 1->2->3->4->5->NULL
-//输出: 5->4->3->2->1->NULL
-//
-// 进阶:
-//你可以迭代或递归地反转链表。你能否用两种方法解决这道题？
-// Related Topics 链表
-
-
-//leetcode submit region begin(Prohibit modification and deletion)
-
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode(int x) { val = x; }
- * }
- */
-<<<<<<< HEAD
-=======
-
 import bean.ListNode;
 
 /**
  * 反转链表
  * https://leetcode-cn.com/problems/reverse-linked-list/
  */
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 public class L206_ReverseList {
 
     /**
      * 双指针迭代
      * 时间复杂度O(n)
      */
-<<<<<<< HEAD
     public ListNode solution_1(ListNode head) {
-=======
-    public static ListNode solution_1(ListNode head) {
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
 
         // 前置节点
         ListNode previousNode = null;
@@ -70,19 +40,5 @@ public class L206_ReverseList {
 
         return previousNode;
     }
-<<<<<<< HEAD
 }
 
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-        val = x;
-    }
-}
-=======
-
-}
-
->>>>>>> 7a866894fd6d6c28f9d9d52f1fd9d418051fb305
