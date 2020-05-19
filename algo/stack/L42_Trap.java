@@ -23,21 +23,26 @@ public class L42_Trap {
         int res = 0;
         for (int i = 0; i < height.length; i++) {
 
+            // 当前柱子高度
             int nowHeight = height[i];
 
             // 如果当前高度大于栈顶元素高度，则进行出栈面积计算
             while (!stack.isEmpty() && height[stack.peek()] < nowHeight) {
 
-                // 栈顶元素出栈
+                // 栈顶柱子出栈，获得下标
                 int headIndex = stack.pop();
+                // 栈顶柱子高度
+                int headHeight = height[headIndex];
                 if (stack.isEmpty()) {
                     break;
                 }
 
-                // 新栈顶元素
+                // 新栈顶柱子下标
                 int newHeadIndex = stack.peek();
+                // 新栈顶柱子高度
+                int newHeadHeight = height[newHeadIndex];
 
-                res += (Math.min(nowHeight, height[newHeadIndex]) - height[headIndex]) * (i - newHeadIndex - 1);
+                res += (Math.min(nowHeight, newHeadHeight) - headHeight) * (i - newHeadIndex - 1);
             }
             stack.push(i);
         }
