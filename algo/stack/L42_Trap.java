@@ -11,7 +11,7 @@ import java.util.Stack;
 public class L42_Trap {
 
     /**
-     * 下行压栈
+     * 压栈分层计算
      */
     public int solution_1(int[] height) {
 
@@ -42,7 +42,11 @@ public class L42_Trap {
                 // 新栈顶柱子高度
                 int newHeadHeight = height[newHeadIndex];
 
-                res += (Math.min(nowHeight, newHeadHeight) - headHeight) * (i - newHeadIndex - 1);
+                // 计算当前积水高度
+                int width = Math.min(nowHeight, newHeadHeight) - headHeight;
+                int length = i - newHeadIndex - 1;
+
+                res += width * length;
             }
             stack.push(i);
         }
