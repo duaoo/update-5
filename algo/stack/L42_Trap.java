@@ -42,8 +42,9 @@ public class L42_Trap {
                 // 新栈顶柱子高度
                 int newHeadHeight = height[newHeadIndex];
 
-                // 计算当前积水高度
+                // 计算当前积水层高度
                 int width = Math.min(nowHeight, newHeadHeight) - headHeight;
+                // 计算当前积水层长度
                 int length = i - newHeadIndex - 1;
 
                 res += width * length;
