@@ -16,8 +16,11 @@ public class NextMaxNum {
         }
 
         // 转数组并排序
-        char[] numChartArray = Character.toChars(num);
-        Arrays.sort(numChartArray);
+        char[] nums = Character.toChars(num);
+
+        int length = nums.length;
+        int i = length - 2;
+
 
 
 
