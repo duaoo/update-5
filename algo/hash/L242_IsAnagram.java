@@ -12,7 +12,7 @@ public class L242_IsAnagram {
 
     /**
      * 暴力求解
-     * 时间复杂度：O(nlogn)
+     * 时间复杂度：O(n log n)
      * 空间复杂度：O(1)
      */
     public boolean solution_1(String s, String t) {
