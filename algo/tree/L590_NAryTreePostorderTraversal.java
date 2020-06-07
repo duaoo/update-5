@@ -9,9 +9,9 @@ import java.util.List;
  * N叉树的前序遍历
  * https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal
  *
- * @date 2020-06-05 11:49 下午
+ * @date 2020-06-06 11:49 下午
  */
-public class L590_NAryTreePreorderTraversal {
+public class L590_NAryTreePostorderTraversal {
 
     /**
      * 递归解法
