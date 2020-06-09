@@ -3,6 +3,7 @@
 
 | 序号 | 名称 | 难度 | 标签 | 首次 | 二次 | 三次 | 四次 | 五次 |
 | :---: | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 31 | [L739-每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 中等 | 栈 | 2020/06/09 |  |  |  |  |
 | 30 | [L429-N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | 中等 | 树 | 2020/06/08 |  |  |  |  |
 | 29 | [L589-N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 简单 | 树 | 2020/06/07 |  |  |  |  |
 | 28 | [L590-N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | 简单 | 树 | 2020/06/06 |  |  |  |  |
