@@ -28,7 +28,7 @@
 | 9 | [L141-环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 简单 | 链表 | 2020/04/30 |  |  |  |  |
 | 8 | [L206-反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 简单 | 链表 | 2020/04/29 |  |  |  |  |
 | 7 | [L24-两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 中等 | 链表 | 2020/04/28 |  |  |  |  |
-| 6 | [L70-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 简单 | 递归 | 2020/04/28 |  |  |  |  |
+| 6 | [L70-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 简单 | 递归 | 2020/04/28 | 2020/06/10 |  |  |  |
 | 5 | [L283-移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | 数组,双指针 | 2020/04/28 | 2020/06/02 |  |  |  |
 | 4 | [L11-盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 中等 | 数组,双指针 | 2020/04/28 | 2020/06/01 |  |  |  |
 | 3 | [L18-四数之和](https://leetcode-cn.com/problems/4sum/) | 中等 | 数组 | 2020/04/27 | 2020/05/30 |  |  |  |
