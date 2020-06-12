@@ -33,6 +33,6 @@
 | 5 | [L283-移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | 数组,双指针 | 2020/04/28 | 2020/06/02 |  |  |  |
 | 4 | [L11-盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 中等 | 数组,双指针 | 2020/04/28 | 2020/06/01 |  |  |  |
 | 3 | [L18-四数之和](https://leetcode-cn.com/problems/4sum/) | 中等 | 数组 | 2020/04/27 | 2020/05/30 |  |  |  |
-| 2 | [L15-三数之和](https://leetcode-cn.com/problems/3sum/) | 中等 | 数组 | 2020/04/26 |  |  |  |  |
+| 2 | [L15-三数之和](https://leetcode-cn.com/problems/3sum/) | 中等 | 数组 | 2020/04/26 | 2020/06/13 |  |  |  |
 | 1 | [L1-两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单 | 数组 | 2020/04/25 | 2020/06/05 |  |  |  |
 |      |                                                              |      |             |            |            |      |      | |
