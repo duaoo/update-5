@@ -3,7 +3,7 @@
 
 | 序号 | 名称 | 难度 | 标签 | 首次 | 二次 | 三次 | 四次 | 五次 |
 | :---: | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 32 | [L22-括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | 字符串 | 2020/06/11 |  |  |  |  |
+| 32 | [L22-括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | 字符串 | 2020/06/11 | 2020/06/13 |  |  |  |
 | 31 | [L739-每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 中等 | 栈 | 2020/06/09 |  |  |  |  |
 | 30 | [L429-N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | 中等 | 树 | 2020/06/08 |  |  |  |  |
 | 29 | [L589-N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 简单 | 树 | 2020/06/07 |  |  |  |  |
@@ -33,6 +33,6 @@
 | 5 | [L283-移动零](https://leetcode-cn.com/problems/move-zeroes/) | 简单 | 数组,双指针 | 2020/04/28 | 2020/06/02 |  |  |  |
 | 4 | [L11-盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 中等 | 数组,双指针 | 2020/04/28 | 2020/06/01 |  |  |  |
 | 3 | [L18-四数之和](https://leetcode-cn.com/problems/4sum/) | 中等 | 数组 | 2020/04/27 | 2020/05/30 |  |  |  |
-| 2 | [L15-三数之和](https://leetcode-cn.com/problems/3sum/) | 中等 | 数组 | 2020/04/26 | 2020/06/13 |  |  |  |
+| 2 | [L15-三数之和](https://leetcode-cn.com/problems/3sum/) | 中等 | 数组 | 2020/04/26 | 2020/06/12 |  |  |  |
 | 1 | [L1-两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单 | 数组 | 2020/04/25 | 2020/06/05 |  |  |  |
 |      |                                                              |      |             |            |            |      |      | |
