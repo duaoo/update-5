@@ -9,7 +9,7 @@
 | 29 | [L589-N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 简单 | 树 | 2020/06/07 |  |  |  |  |
 | 28 | [L590-N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | 简单 | 树 | 2020/06/06 |  |  |  |  |
 | 27 | [L144-二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 中等 | 树 | 2020/06/05 |  |  |  |  |
-| 26 | [L94-二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | 树 | 2020/06/03 |  |  |  |  |
+| 26 | [L94-二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | 树 | 2020/06/03 | 2020/06/14 |  |  |  |
 | 25 | [L49-字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | 哈希表 | 2020/05/31 |  |  |  |  |
 | 24 | [L242-有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 | 哈希表 | 2020/05/28 |  |  |  |  |
 | 23 | [L31-下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 | 数组 | 2020/05/24 |  |  |  |  |
