@@ -3,6 +3,7 @@
 
 | 序号 | 名称 | 难度 | 标签 | 首次 | 二次 | 三次 | 四次 | 五次 |
 | :---: | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 34 | [L98-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 | 树 | 2020/06/16 |  |  |  |  |
 | 33 | [L226-翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 | 树 | 2020/06/15 |  |  |  |  |
 | 32 | [L22-括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | 字符串 | 2020/06/11 | 2020/06/13 |  |  |  |
 | 31 | [L739-每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 中等 | 栈 | 2020/06/09 |  |  |  |  |
