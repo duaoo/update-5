@@ -6,7 +6,7 @@ import bean.TreeNode;
  * 二叉树的最大深度
  * https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
  *
- * @author duxiaojie
+ * @date 2020-06-22 11:49 下午
  */
 public class L104_MaximumDepthOfBinaryTree {
 
