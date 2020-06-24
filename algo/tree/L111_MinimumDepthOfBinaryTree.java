@@ -25,7 +25,7 @@ public class L111_MinimumDepthOfBinaryTree {
 
         // 当左右自节点其中一个为null时，返回不为null节点的深度
         if (root.left == null || root.right == null) {
-            return leftDepth + rightDepth + 1;
+            return Math.max(leftDepth, rightDepth) + 1;
         }
 
         return Math.min(leftDepth, rightDepth) + 1;
