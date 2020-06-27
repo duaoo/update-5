@@ -3,6 +3,7 @@
 
 | 序号 | 名称 | 难度 | 标签 | 首次 | 二次 | 三次 | 四次 | 五次 |
 | :---: | :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 37 | [L297-二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 | 树 | 2020/06/27 |  |  |  |  |
 | 36 | [L111-二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 | 树 | 2020/06/23 | 2020/06/25 |  |  |  |
 | 35 | [L104-二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 | 树 | 2020/06/21 | 2020/06/26 |  |  |  |
 | 34 | [L98-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 | 树 | 2020/06/16 | 2020/06/17 |  |  |  |
