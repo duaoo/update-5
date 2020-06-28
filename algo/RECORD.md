@@ -10,7 +10,7 @@
 | 33 | [L226-翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 简单 | 树 | 2020/06/15 | 2020/06/18 |  |  |  |
 | 32 | [L22-括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | 字符串 | 2020/06/11 | 2020/06/13 |  |  |  |
 | 31 | [L739-每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 中等 | 栈 | 2020/06/09 |  |  |  |  |
-| 30 | [L429-N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | 中等 | 树 | 2020/06/08 |  |  |  |  |
+| 30 | [L429-N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | 中等 | 树 | 2020/06/08 | 2020/06/28 |  |  |  |
 | 29 | [L589-N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | 简单 | 树 | 2020/06/07 | 2020/06/20 |  |  |  |
 | 28 | [L590-N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | 简单 | 树 | 2020/06/06 | 2020/06/19 |  |  |  |
 | 27 | [L144-二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 中等 | 树 | 2020/06/05 | 2020/06/22 |  |  |  |
