@@ -20,9 +20,9 @@ public class L297_SerializeAndDeserializeBinaryTree {
      */
     public class solution_1 {
 
-        private static final String SPLITER = ",";
+        private static final String SPLIT = ",";
         private static final String NULL_STR = "null";
-
+        
         // Encodes a tree to a single string.
         public String serialize(TreeNode root) {
 
@@ -34,7 +34,7 @@ public class L297_SerializeAndDeserializeBinaryTree {
         // Decodes your encoded data to tree.
         public TreeNode deserialize(String data) {
 
-            List<String> valList = Arrays.asList(data.split(SPLITER));
+            List<String> valList = Arrays.asList(data.split(SPLIT));
             Deque<String> deque = new LinkedList<>(valList);
             return buildTree(deque);
         }
@@ -42,11 +42,11 @@ public class L297_SerializeAndDeserializeBinaryTree {
         private void buildString(TreeNode root, StringBuilder sb) {
 
             if (root == null) {
-                sb.append(NULL_STR).append(SPLITER);
+                sb.append(NULL_STR).append(SPLIT);
                 return;
             }
 
-            sb.append(root.val).append(SPLITER);
+            sb.append(root.val).append(SPLIT);
             buildString(root.left, sb);
             buildString(root.right, sb);
         }
