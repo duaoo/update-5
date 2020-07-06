@@ -16,7 +16,7 @@
 | 27 | [L144-二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 中等 | 树 | 2020/06/05 | 2020/06/22 |  |  |  |
 | 26 | [L94-二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 中等 | 树 | 2020/06/03 | 2020/06/14 |  |  |  |
 | 25 | [L49-字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 中等 | 哈希表 | 2020/05/31 |  |  |  |  |
-| 24 | [L242-有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 | 哈希表 | 2020/05/28 |  |  |  |  |
+| 24 | [L242-有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 简单 | 哈希表 | 2020/05/28 | 2020/07/06 |  |  |  |
 | 23 | [L31-下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 中等 | 数组 | 2020/05/24 | 2020/07/01 |  |  |  |
 | 22 | [L42-接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 困难 | 栈 | 2020/05/16 |  |  |  |  |
 | 21 | [L641-设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) | 中等 | 队列 | 2020/05/14 |  |  |  |  |
