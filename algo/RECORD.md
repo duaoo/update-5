@@ -23,7 +23,7 @@
 | 19 | [L239-滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 困难 | 栈 | 2020/05/09 |  |  |  |  |
 | 18 | [L155-最小栈](https://leetcode-cn.com/problems/min-stack/) | 简单 | 栈 | 2020/05/08 |  |  |  |  |
 | 17 | [L20-有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | 栈,数组 | 2020/05/07 |  |  |  |  |
-| 16 | [L66-加一](https://leetcode-cn.com/problems/plus-one/) | 简单 | 数组 | 2020/05/06 |  |  |  |  |
+| 16 | [L66-加一](https://leetcode-cn.com/problems/plus-one/) | 简单 | 数组 | 2020/05/06 | 2020/07/09 |  |  |  |
 | 15 | [L88-合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | 数组,双指针 | 2020/05/05 |  |  |  |  |
 | 14 | [L21-合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | 链表 | 2020/05/04 |  |  |  |  |
 | 13 | [L189-旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 简单 | 数组 | 2020/05/03 |  |  |  |  |
