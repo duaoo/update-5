@@ -25,6 +25,7 @@ public class L236_LowestCommonAncestorOfABinaryTree {
         if (left == null) {
             return right;
         }
+
         //同上
         if (right == null) {
             return left;
