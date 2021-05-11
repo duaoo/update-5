@@ -22,7 +22,7 @@ public class L297_SerializeAndDeserializeBinaryTree {
 
         private static final String SPLIT = ",";
         private static final String NULL_STR = "null";
-        
+
         // Encodes a tree to a single string.
         public String serialize(TreeNode root) {
 

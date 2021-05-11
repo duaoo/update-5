@@ -24,7 +24,7 @@ public class L141_HasCycle {
 
         while (fastNode != null && fastNode.next != null) {
 
-            if (slowNode.val == fastNode.val) {
+            if (slowNode == fastNode) {
                 return true;
             }
 
